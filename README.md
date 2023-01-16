@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Sahil-81/Sahil-81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Omegaviv/Omegaviv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil-81&count_private=true)<br><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omegaviv&layout=compact)](https://github.com/omegaviv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-81&layout=compact)](https://github.com/sahil-81/github-readme-stats)
+
+[Get My Resume](https://drive.google.com/file/d/1bWDfnMILpjS04Xp65VbqIPf5BzkAuU2C/view?usp=sharing)
